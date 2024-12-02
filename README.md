@@ -9,6 +9,7 @@
 ZLS is a non-official implementation of the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) for [Zig](https://ziglang.org/) in Zig. It provides developers with IDE [features](#features) in their editor.
 
 ## Installation
+## By Mudassir Alam
 
 ### See the [Installation Guide](https://zigtools.org/zls/install/) for editor and binary installation instructions.
 
